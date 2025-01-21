@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 This is the README file
 ### Copyright
 2025 Git.Training
-
+ please fork this repo
