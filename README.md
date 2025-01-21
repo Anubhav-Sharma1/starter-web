@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
  
 ## Introduction
 This is the README file
+### Copyright
+2025 Git.Training
+
